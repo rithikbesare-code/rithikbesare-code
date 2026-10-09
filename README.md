@@ -12,6 +12,7 @@ I’m a finance and investment professional with 3+ years of experience in banki
 - Financial modelling, company valuation and investment analysis
 - UK IPO performance, portfolio construction and risk analysis
 - Financial econometrics, panel regression, time-series forecasting and volatility analysis
+- Portfolio construction, asset allocation and performance attribution
 - Banking operations, payment investigation and reconciliation
 - Management information, KPI reporting, controls and process improvement
 
@@ -36,6 +37,7 @@ I’m a finance and investment professional with 3+ years of experience in banki
 | **UK IPO Outcomes** | Built a UK IPO dataset for my MSc dissertation and analysed post-listing performance. | Bloomberg, Python data scraping, Excel, EViews, regression and statistical analysis |
 | [**JD Sports Fashion plc Valuation**](https://rithikbesare-code.github.io/projects/jd-sports-valuation/) | Excel DCF and company analysis with sensitivity cases; the project page records the submitted model result and its review caveats. | DCF, financial statements, ratios, scenario analysis, Excel |
 | [**Financial Econometrics & Market Behaviour**](https://rithikbesare-code.github.io/projects/financial-time-series-ml/) | Panel regressions, ARMA returns and GARCH volatility analysis; the page reconciles EViews output and notes that the neural-network section is conceptual. | Panel data, OLS/FE/RE, ARMA, GARCH, EViews |
+| [**Portfolio Construction & Performance Attribution**](https://rithikbesare-code.github.io/projects/investment-management/) | Compared four FTSE 100 equity strategies and attributed the relative return of a multi-asset fund; the page documents workbook formula and exposure caveats. | Portfolio theory, risk and return, asset allocation, Excel |
 | **Portfolio Construction & Risk Analysis** | Constructed diversified portfolios and evaluated expected returns and systematic risk. | Excel, CAPM, regression analysis |
 
 ## Experience
