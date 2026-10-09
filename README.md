@@ -30,6 +30,7 @@ I’m a finance and investment professional with 3+ years of experience in banki
 
 | Project | Description | Methods & tools |
 | --- | --- | --- |
+| [**Separation of Ownership and Control**](https://rithikbesare-code.github.io/projects/agency-costs/) | Mini literature review on agency costs; synthesises board independence, incentive pay, shareholder activism and ESG or stakeholder governance. | Literature synthesis, source evaluation, corporate governance |
 | **UK IPO Outcomes** | Built a UK IPO dataset for my MSc dissertation and analysed post-listing performance. | Bloomberg, Python data scraping, Excel, EViews, regression and statistical analysis |
 | **JD Sports Fashion plc Valuation** | Estimated intrinsic value and developed an investment recommendation. | DCF modelling, financial statements, ratio and peer analysis, Excel |
 | **Portfolio Construction & Risk Analysis** | Constructed diversified portfolios and evaluated expected returns and systematic risk. | Excel, CAPM, regression analysis |
