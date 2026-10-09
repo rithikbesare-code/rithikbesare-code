@@ -39,7 +39,6 @@ I’m a finance and investment professional with 3+ years of experience in banki
 | [**Wipro Ltd Financial Analysis & DDM Valuation**](https://rithikbesare-code.github.io/projects/wipro-financial-analysis/) | Ten-year financial review with profitability and DuPont analysis; the project page checks the dividend model, period alignment and source limitations. | Financial statements, ratio analysis, DuPont, DDM, ESG review |
 | [**Financial Econometrics & Market Behaviour**](https://rithikbesare-code.github.io/projects/financial-time-series-ml/) | Panel regressions, ARMA returns and GARCH volatility analysis; the page reconciles EViews output and notes that the neural-network section is conceptual. | Panel data, OLS/FE/RE, ARMA, GARCH, EViews |
 | [**Portfolio Construction & Performance Attribution**](https://rithikbesare-code.github.io/projects/investment-management/) | Compared four FTSE 100 equity strategies and attributed the relative return of a multi-asset fund; the page documents workbook formula and exposure caveats. | Portfolio theory, risk and return, asset allocation, Excel |
-| **Portfolio Construction & Risk Analysis** | Constructed diversified portfolios and evaluated expected returns and systematic risk. | Excel, CAPM, regression analysis |
 
 ## Experience
 
