@@ -33,7 +33,7 @@ I’m a finance and investment professional with 3+ years of experience in banki
 | [**Interest Rate Swaps: Pricing & Risk**](https://rithikbesare-code.github.io/projects/interest-rate-swaps/) | Coursework essay on swap mechanics, present-value pricing, hedging, speculation and the risks that remain. | Derivatives, discounted cash flow, SOFR, hedging and risk management |
 | [**Separation of Ownership and Control**](https://rithikbesare-code.github.io/projects/agency-costs/) | Mini literature review on agency costs; synthesises board independence, incentive pay, shareholder activism and ESG or stakeholder governance. | Literature synthesis, source evaluation, corporate governance |
 | **UK IPO Outcomes** | Built a UK IPO dataset for my MSc dissertation and analysed post-listing performance. | Bloomberg, Python data scraping, Excel, EViews, regression and statistical analysis |
-| **JD Sports Fashion plc Valuation** | Estimated intrinsic value and developed an investment recommendation. | DCF modelling, financial statements, ratio and peer analysis, Excel |
+| [**JD Sports Fashion plc Valuation**](https://rithikbesare-code.github.io/projects/jd-sports-valuation/) | Excel DCF and company analysis with sensitivity cases; the project page records the submitted model result and its review caveats. | DCF, financial statements, ratios, scenario analysis, Excel |
 | **Portfolio Construction & Risk Analysis** | Constructed diversified portfolios and evaluated expected returns and systematic risk. | Excel, CAPM, regression analysis |
 
 ## Experience
